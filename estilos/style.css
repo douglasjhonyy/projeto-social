@@ -6,14 +6,14 @@
 }
 html, body {
     height: 100vh;
-    width: 100vh;
+    width: 100vw;
     background-color: black;
 }
 
 body {
     background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
-    background-attachment: ;
+    background-attachment: fixed;
 }
 
 main{
